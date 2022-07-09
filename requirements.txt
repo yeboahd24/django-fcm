@@ -1,0 +1,5 @@
+django
+djangorestframework
+fcm-django
+firebase-admin
+django-crispy-forms
